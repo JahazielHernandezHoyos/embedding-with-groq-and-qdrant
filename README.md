@@ -1,6 +1,8 @@
 # 🚀 Smart Sales Agent
 
 Un agente de ventas inteligente que utiliza **Groq** para procesamiento de lenguaje natural, **Qdrant** como base de datos vectorial, y **RAG** (Retrieval-Augmented Generation) para proporcionar insights de ventas basados en datos reales.
+https://www.linkedin.com/posts/activity-7349848826574168064-J5Pe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACG9uGQBbKa1oO3QmZLZxs6juCA3bh6mI9I
+
 
 ## ✨ Características
 
